@@ -1,0 +1,64 @@
+/*
+@import './common.scss';
+!*固定底部通栏*!
+
+.fixBottomBox {
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid $borderColor;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.fixBottomBox ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fixBottomBox .tabItem {
+    width: 18%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tab-item-link{
+  padding-top:10px;
+}
+.tab-item-icon {
+    display: inline-flex;
+    width: 43px;
+    height: 43px;
+
+}
+.mall-icon{
+  background: url('../../assets/img/navbottom/mall-select.png') no-repeat;
+  background-size: contain;
+}
+.mall-select-icon{
+  background: url('../../assets/img/navbottom/mall-select.png') no-repeat;
+  background-size: contain;
+}
+.cart-select-icon{
+  background: url('../../assets/img/navbottom/cart-select.png') no-repeat;
+  background-size: contain;
+}
+.cart-icon{
+  background: url('../../assets/img/navbottom/cart.png') no-repeat;
+  background-size: contain;
+}
+.order-icon{
+  background: url('../../assets/img/navbottom/order.png') no-repeat;
+  background-size: contain;
+}
+.order-select-icon{
+  background: url('../../assets/img/navbottom/order-select.png') no-repeat;
+  background-size: contain;
+}
+
+*/
